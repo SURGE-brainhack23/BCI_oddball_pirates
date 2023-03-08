@@ -5,7 +5,9 @@ This repository contains a PsychoPy script for a BCI speller paradigm. At the st
 - Green, upright  face silhouettes
 - White, inverted face silhouettes
 - Green, inverted face silhouettes
+
 Then after a longer break…
+
 - White, upright faces
 - Green, upright  faces
 - White, inverted faces
